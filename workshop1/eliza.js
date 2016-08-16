@@ -29,7 +29,8 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "What's up bish?"
+    "What's up bish?",
+    "What gang you reppin?"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -41,7 +42,8 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "If you got a name, you got a number, and I want it.",
+    "That's a fly name fam."
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
